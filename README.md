@@ -14,11 +14,14 @@ In this,I used following function:<BR>
 In this, I plot two graphs and also used buttons:<BR>
 1- Choropleth map <BR>
 2- Tree map<BR>
+If you are run this progrom in your PC thn it takes 3-4 min to ectracting the data.<BR>       
 
-NOTE:- To know more about these map and about buttons,i provided link below<BR>
-       	Choropleth :- "https://plotly.com/python/choropleth-maps/"<BR>
+NOTE:- If you unable to see my plot, then click here:-" https://nbviewer.jupyter.org/github/nirbhay-cpu/COVID-19-CURRENT-CASES/blob/master/COVID-19.ipynb"<BR> 
+To know more about these map and about buttons,i provided link below<BR>
+        Choropleth :- "https://plotly.com/python/choropleth-maps/"<BR>
         Treemap    :- "https://plotly.com/python/treemaps/"<BR>
         Buttons    :- "https://plotly.com/python/custom-buttons/"<BR>
+       
 
 
 STAY HOME AND STAY SAFE!!!!
